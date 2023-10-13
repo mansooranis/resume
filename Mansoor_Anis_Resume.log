@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  4 AUG 2023 21:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.1)  13 OCT 2023 01:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/mansoor/Desktop/work/resume.tex
-(/Users/mansoor/Desktop/work/resume.tex
+**/Users/mansoor/Desktop/work/Mansoor_Anis_Resume.tex
+(/Users/mansoor/Desktop/work/Mansoor_Anis_Resume.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -223,8 +223,8 @@ Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count274
 \l__pdf_internal_box=\box54
-) (./resume.aux)
-\openout1 = `resume.aux'.
+) (./Mansoor_Anis_Resume.aux)
+\openout1 = `Mansoor_Anis_Resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
 LaTeX Font Info:    ... okay on input line 106.
@@ -271,9 +271,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 106.
 LaTeX Info: Redefining \pageref on input line 106.
 LaTeX Info: Redefining \nameref on input line 106.
- (./resume.out) (./resume.out)
+ (./Mansoor_Anis_Resume.out) (./Mansoor_Anis_Resume.out)
 \@outlinefile=\write3
-\openout3 = `resume.out'.
+\openout3 = `Mansoor_Anis_Resume.out'.
 
 
 
@@ -302,26 +302,26 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Mansoor_Anis_Resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `resume.out' has not changed.
+Package rerunfilecheck Info: File `Mansoor_Anis_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: DF5DBEC40600835F37C07A7280D7C15F;483.
  ) 
 Here is how much of TeX's memory you used:
  10213 strings out of 478268
- 161709 string characters out of 5846348
- 499265 words of memory out of 5000000
+ 161930 string characters out of 5846348
+ 498330 words of memory out of 5000000
  28302 multiletter control sequences out of 15000+600000
  474851 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,63p,345b,341s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,11n,63p,358b,341s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 107066 bytes).
+Output written on Mansoor_Anis_Resume.pdf (1 page, 107859 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
